@@ -25,4 +25,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.3.0'
     compile rootProject.ext.butternife
     apt rootProject.ext.butternifeapt
+    compile rootProject.ext.splashanim
 }

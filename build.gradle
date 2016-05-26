@@ -21,6 +21,7 @@ allprojects {
 ext {
     butternife = 'com.jakewharton:butterknife:8.0.1'
     butternifeapt = 'com.jakewharton:butterknife-compiler:8.0.1'
+    splashanim = 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
 }
 
 task clean(type: Delete) {
